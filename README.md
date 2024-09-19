@@ -29,3 +29,5 @@ Connecting the Components
 1. Streamlit Frontend collects user inputs and sends them to the backend model for prediction.
 2. Backend Model processes the inputs and returns a prediction result.
 3. MongoDB Database stores the data for each prediction instance, facilitating continuous improvement and analysis.
+
+This prototype aligns with the project goals of predicting diabetes types using readily available demographic and biometric data. By developing a user-friendly interface that provides quick and accurate predictions, the application aids in early detection and intervention.
